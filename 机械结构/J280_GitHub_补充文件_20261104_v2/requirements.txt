@@ -1,0 +1,3 @@
+# Required for the inspected v9.4 host monitor.
+# tkinter is a Python/Tcl-Tk component, not a pip package.
+pyserial==3.5

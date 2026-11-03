@@ -1,0 +1,4 @@
+-r requirements.txt
+# Optional drawing enhancement; required for screenshots / related rendering tests.
+# No Pillow version is pinned because the inspected package does not establish one.
+Pillow
